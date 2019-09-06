@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/kyoko.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Blaze_127
+permalink: projects/Blaze_127
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-07-30
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Audacity
+  - Youtube
+  - Sony Vegas Pro
+summary: Back in my first years of college I've created Youtube Vidoes on Gameplay on Video games with using Audacity to record my commentary and Sony Vegas Pro to edit my videos. 
 ---
 
 <div class="ui small rounded images">
@@ -20,25 +20,16 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Youtube was a big part of my life when i was growing up as a kid. It was fun wathcing people play videogames that I couldn't afford so I watch their reactions on playing games and was thrill to seeing their gameplay and techniques on how they make their videos/ contnents. So for my first step I started saving money I started buying the necessities on making a let's play channel. Here below were the equipment needed for beginner level.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+- Decent Desktop with an i7 processor with 16 GB ram 
+- Decent USB microphone (BLue Yeti)
+- USB Camera (Logitech 1080p USB Camera)
+- Elgato Capture Card
+- Sony Vegas Pro
+- Audacity
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+When I first started it was hard trying to get the right audio level to balance the game audio and my commentary audio. For example whenever there was background noises my mic recorded i had to cut that out in the videos so its not a disturbance to the viewrs watching my content. As when I got to my 7th video it gotten easier for my to upload my videos daily. But as college went on I haven't uploaded a vidoe for at least a year due to the work load of school and my part time job. Maybe one day i'll come back and upload more videos when I have the time! 
 
 
 
