@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/imageme.JPG
 title: Art 112 Final
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
