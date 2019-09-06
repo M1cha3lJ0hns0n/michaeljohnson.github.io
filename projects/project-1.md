@@ -19,7 +19,7 @@ summary: Back in my first years of college I've created Youtube Vidoes on Gamepl
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Youtube was a big part of my life when i was growing up as a kid. It was fun wathcing people play videogames that I couldn't afford so I watch their reactions on playing games and was thrill to seeing their gameplay and techniques on how they make their videos/ contnents. So for my first step I started saving money I started buying the necessities on making a let's play channel. Here below were the equipment needed for beginner level.
+Youtube was a big part of my life when I was growing up as a kid. It was fun wathcing people play videogames that I couldn't afford so I watch their reactions on playing games and was thrill to seeing their gameplay and techniques on how they make their videos/ contnents. So for my first step I started saving money I started buying the necessities on making a let's play channel. Here below were the equipment needed for beginner level.
 
 - Decent Desktop with an i7 processor with 16 GB ram 
 - Decent USB microphone (BLue Yeti)
