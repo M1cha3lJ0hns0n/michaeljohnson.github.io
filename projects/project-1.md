@@ -27,4 +27,4 @@ Youtube was a big part of my life when I was growing up as a kid. It was fun wat
 
 When I first started it was hard trying to get the right audio level to balance the game audio and my commentary audio. For example whenever there was background noises my mic recorded i had to cut that out in the videos so its not a disturbance to the viewrs watching my content. As when I got to my 7th video it gotten easier for my to upload my videos daily. But as college went on I haven't uploaded a video for at least a year due to the work load of school and my part time job. Maybe one day i'll come back and upload more videos when I have the time! 
 
-[Here is a link to my Channel] (https://www.youtube.com/user/ichigoperson)
+[Here is a link to my Channel](https://www.youtube.com/user/ichigoperson)
