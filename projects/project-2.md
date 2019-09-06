@@ -11,7 +11,7 @@ labels:
   - HTML
   - Digital Media
   
-summary: An html page displaying all my photoshop works during my smemster taking Art 212.
+summary: An html page displaying all my photoshop works during my sophmore sememster taking Art 212.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/artfinal.JPG">
