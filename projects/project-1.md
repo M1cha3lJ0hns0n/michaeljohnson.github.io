@@ -10,7 +10,7 @@ labels:
   - Audacity
   - Youtube
   - Sony Vegas Pro
-summary: Back in my first years of college I've created Youtube Vidoes on Gameplay on Video games with using Audacity to record my commentary and Sony Vegas Pro to edit my videos. 
+summary: Back in my first years of college I've created Youtube Videos on Gameplay on Video games with using Audacity to record my commentary and Sony Vegas Pro to edit my videos. 
 ---
 
 <img class="ui huge centered image" src="../images/Blaze1270.JPG">
@@ -25,7 +25,8 @@ Youtube was a big part of my life when I was growing up as a kid. It was fun wat
 - Sony Vegas Pro
 - Audacity
 
-When I first started it was hard trying to get the right audio level to balance the game audio and my commentary audio. For example whenever there was background noises my mic recorded i had to cut that out in the videos so its not a disturbance to the viewrs watching my content. As when I got to my 7th video it gotten easier for my to upload my videos daily. But as college went on I haven't uploaded a vidoe for at least a year due to the work load of school and my part time job. Maybe one day i'll come back and upload more videos when I have the time! 
+When I first started it was hard trying to get the right audio level to balance the game audio and my commentary audio. For example whenever there was background noises my mic recorded i had to cut that out in the videos so its not a disturbance to the viewrs watching my content. As when I got to my 7th video it gotten easier for my to upload my videos daily. But as college went on I haven't uploaded a video for at least a year due to the work load of school and my part time job. Maybe one day i'll come back and upload more videos when I have the time! 
 
 Here is a link to my Channel 
-(https://www.youtube.com/user/ichigoperson)
+
+https://www.youtube.com/user/ichigoperson
