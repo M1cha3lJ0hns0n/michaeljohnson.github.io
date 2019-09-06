@@ -1,57 +1,45 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Michael Johnson",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://michaeljohnson127.github.io/template/images/michaeljohnson.png",
+    "email": "mj66@hawaii.edu",
+    "phone": "808-271-9453",
+    "website": "https://michaeljohnson127.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii Manoa. I expect to graduate in Spring, 2021.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "2236 Aamanu Street",
+      "postalCode": "96782",
+      "city": "Pearl City",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "michaeljohnson127",
+        "url": "http://github.com/michaeljohnson127"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://linkedin.com/in/michael-johnson-a902b2192/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Desktop Building",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Videogames",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Anime",
       "keywords": [
       ]
     }
