@@ -13,6 +13,8 @@ labels:
 summary: Back in my first years of college I've created Youtube Vidoes on Gameplay on Video games with using Audacity to record my commentary and Sony Vegas Pro to edit my videos. 
 ---
 
+<img class="ui tiny left circular floated image" src="../images/Blaze1270.JPG">
+<img class="ui tiny left circular floated image" src="../images/SonyVegas.JPG">
 <div class="ui small rounded images">
   <img class="ui image" src="../images/Blaze1270.JPG">
   <img class="ui image" src="../images/SonyVegas.JPG">
