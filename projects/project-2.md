@@ -11,14 +11,14 @@ labels:
   - HTML
   - Digital Media
   
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: An html page displaying all my photoshop works during my smemster taking Art 212.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/artfinal.JPG">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Photoshop is a program that edit pictures to make them appealing to your nature. Some peeopl use photoshop on a regular basis in order to make memes of giphs. For my sophmore semster of college I was task to utilize photoshop to complete my assingments that are based to make an html on my final displaying my previous works. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+
 
 In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
  
