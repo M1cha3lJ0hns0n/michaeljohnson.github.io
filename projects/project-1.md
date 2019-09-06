@@ -13,11 +13,9 @@ labels:
 summary: Back in my first years of college I've created Youtube Vidoes on Gameplay on Video games with using Audacity to record my commentary and Sony Vegas Pro to edit my videos. 
 ---
 
-<img class="ui tiny left circular floated image" src="../images/Blaze1270.JPG">
 <div class="ui small rounded images">
   <img class="ui image" src="../images/Blaze1270.JPG">
   <img class="ui image" src="../images/SonyVegas.JPG">
-  <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
 Youtube was a big part of my life when I was growing up as a kid. It was fun wathcing people play videogames that I couldn't afford so I watch their reactions on playing games and was thrill to seeing their gameplay and techniques on how they make their videos/ contnents. So for my first step I started saving money I started buying the necessities on making a let's play channel. Here below were the equipment needed for beginner level.
