@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/isa.png
-title: ICS 170 ISA
-permalink: projects/cotton
+image: images/irs.png
+title: ICS 170 IRS
+permalink: projects/irs
 # All dates must be YYYY-MM-DD format!
 date: 2016-11-28
 labels:
