@@ -93,21 +93,15 @@
   ]
     }
   ],
-  "awards": [
+ "awarder": [
     {
       "title": "Associates in Natural Science Information and Communication Technology ",
       "startDate": "2015-08-27",
       "endDate": "2019-06-15",
       "awarder": "Leeward Community College",
       "summary": " The AS-NS is one of several STEM options for you to explore. With one of the largest Math & Sciences divisions in the UH Community College system, Leeward offers more than 200 sections each semester in a variety of disciplines"
+      ]
     }
   ]
     }
-],
-
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+  ],
