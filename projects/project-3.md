@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/irs.png
+image: images/irs.jpg
 title: ICS 170 IRS
 permalink: projects/irs
 # All dates must be YYYY-MM-DD format!
