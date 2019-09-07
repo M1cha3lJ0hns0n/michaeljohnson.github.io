@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/imageme.JPG
 title: Art 112 Final
-permalink: projects/vacay
+permalink: projects/Art112Final
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-07
 labels:
