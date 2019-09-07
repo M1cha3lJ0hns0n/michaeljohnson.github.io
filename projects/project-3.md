@@ -13,8 +13,11 @@ labels:
 summary: A group video project for ICS 170.
 ---
 
+<img class="ui medium right floated rounded image" src="../images/audacity.png">
 
 For this project I was put into a group of four students and our task was to research what the ISA does and our thoughts on what we think of it. For our work load we were to be given a sub topic of ISA and do research on it and record ouserlves using Audacity and send our recordings to our group leader. It was kinda of fun doing this project becasue I never fully understand what the ISA realy is but our information is leaked out to them on a daily basis. This is a show of invasion of privacy and to know that is legal shows that our government is corrupt in a way. 
+
+<img class="ui medium right floated rounded image" src="../images/hardships.png">
 
 The hardships of this project was to record a clean take of my voice. This is due to background noises and interuptions form my roommates. Although I had the right equipment it was not a great location I was living at the time. Also it was hard to not sound like i was reading from a script and make my voice sound legit and not like a robot. Although it was hard I love that Audacity is free and avaible to edit your audio tracks to minimize background noise and make it sound clean. 
 
