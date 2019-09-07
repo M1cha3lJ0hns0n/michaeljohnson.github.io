@@ -21,4 +21,4 @@ Photoshop is a program that edit pictures to make them appealing to your nature.
 
 In this project I gained experience with Adobe Photoshop 2017 as well as Adobe Premier. This was a great way of learning how to edit photos. With this I was able to to ultilize this skill in making my thumbnails for my Youtube videos for my Let's Play Channel. Here is an example right below.   
  
-<img class="ui medium right floated rounded image" src="../images/thumbnail.jpg">
+<img class="ui huge centered image" src="../images/thumbnail.jpg">
