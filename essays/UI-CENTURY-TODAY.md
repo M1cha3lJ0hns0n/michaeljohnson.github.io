@@ -19,8 +19,8 @@ When I was younger and was introduced into HTML, I was so excited cause I was go
 
 During this month of ICS 314 we got back to learning the basics of making HTML sites with CSS again and it brought back nostalgic memories back in middle school. But furthermore, we got into learning what UI Framework. My god this is what I was lacking in middle school when I learned this, and we got to learn what Semantic UI is. Semantic UI is one of the more popular UI frameworks. It uses specific premade classes that let you use commonly used structures that create the design of the application with just simple lines of text. It was so useful because I help make your html websites look more appealing and organized in a way where it doesn’t make it look basic yet unique.
 
-<img class="ui huge centered image" src="../images/CHEESECAKE 1.JPG">
-<img class="ui huge centered image" src="../images/MY CHEESECAKE.JPG">
+<img class="ui medium centered image" src="../images/CHEESCAKE 1.JPG">
+<img class="ui medium centered image" src="../images/MY CHEESECAKE.JPG">
 
 
 ## Hope of Dream 
