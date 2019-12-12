@@ -15,11 +15,11 @@ summary: An html page displaying all my photoshop works during my sophmore semem
 
 <img class="ui medium right floated rounded image" src="../images/artfinal.JPG">
 
-Photoshop is a program that edit pictures to make them appealing to your nature. Some people use photoshop on a regular basis in order to make memes of giphs. For my sophmore semster of college I was task to utilize photoshop to complete my assingments that are based to make an html on my final displaying my previous works. This was a fun class to take because I always wanted to learn how to photoshop some pictures to make them hilarious. 
+Photoshop is a program that edit pictures to make them appealing to your nature. Some people use photoshop on a regular basis in order to make memes of giphs. For my sophomore semester of college I was task to utilize photoshop to complete my assignments that are based to make an html on my final displaying my previous works. This was a fun class to take because I always wanted to learn how to photoshop some pictures to make them hilarious. 
 
 
 
-In this project I gained experience with Adobe Photoshop 2017 as well as Adobe Premier. This was a great way of learning how to edit photos. With this I was able to to ultilize this skill in making my thumbnails for my Youtube videos for my Let's Play Channel. Here is an example right below.   
+In this project I gained experience with Adobe Photoshop 2017 as well as Adobe Premier. This was a great way of learning how to edit photos. With this I was able to to utilize this skill in making my thumbnails for my Youtube videos for my Let's Play Channel. Here is an example right below.   
  
 <img class="ui huge centered image" src="../images/thumbnail.jpg">
 
