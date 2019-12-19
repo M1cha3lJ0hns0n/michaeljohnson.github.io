@@ -22,7 +22,7 @@ Learning JavaScript is a great experience for me. In a way it like learning Java
 
 <img class="ui huge centered image" src="../images/javascript.jpg">
 
-## Reccomendations
+## Reccomendations on Stuff
 
 I think JavaScript is a great programming to learn. I recommend that if your going to learn JavaScript you be best to learn Java. I believe its best to learn from the roots or history of something before your learning the current trend and I believe that sticks to coding. If you have experience with Java, then learning JavaScript will be like learning Java with a master key. 
 
