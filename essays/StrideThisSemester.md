@@ -16,18 +16,17 @@ labels:
 
 <img class="ui huge centered image" src="../images/chakra.jpg">
 
-## Learning JavaScript
+## The Process
 
-Learning JavaScript is a great experience for me. In a way it like learning Java again but more content. It gave me the same feeling as when I was learning C++ at the end of ICS 212. One of the first assignments of ICS 314 I had to do a module called E06 “Introduction to JavaScript”. We had to learn how JavaScript on freecodecamp.com and we had to do exercises of JavaScript it was great recapping on what I know and what I’m going to learn. It was great learning the “let” it’s a great substitute for var for when your using blocks and within the globally scope. JavaScript feels a smoother and simpler Java and thank god it is.
+Software Engineering has been a great deal for me during this semester because it focuses the computer science to a certain degree for me. This class taught me the importance on getting a deadline done and met in certain conditions which is necessary in today's workforce. With the necessary work ethic and communication this was good practice for. Prior to now I had not used Github or Git while working on a project since every computer science project I have done up until now has been solo.But setting milestones, assigning issues, and the use of branches with Github taught me an efficient and practical way for me and my team members to work together. With issues all of our tasks were outlined clearly and it made each teammate accountable to doing their part of the code while also allowing us to work in separate branches and make mistakes so that our code did not affect the master’s project. This class also taught me to trust in my partners abilities and to check up on then time to time to see if were on the right track. 
 
-<img class="ui huge centered image" src="../images/javascript.jpg">
+# Agile Project Management
+Agile project management is a style of running a project.What I learned in my ICS 314 class was issue a driven project management. Issue driven project management is a management style where you make milestones with due dates, which each “issue” for each problem or hurdle that need to get done by the due date, and as you finish the issue you close it and open a new one. At certain dates we would have to present our status on our project. After presenting the project close the milestone and open a new milestone with all the remaining issues, any new ones that came up from the presentation. This is a good management style and I think that I will use it for the next big group project when I have a chance to. On which is available on Github and is easy to access to the public and most of all free.
 
-## Reccomendations on Stuff
+<img class="ui huge centered image" src="../images/agile.jpg">
 
-I think JavaScript is a great programming to learn. I recommend that if your going to learn JavaScript you be best to learn Java. I believe its best to learn from the roots or history of something before your learning the current trend and I believe that sticks to coding. If you have experience with Java, then learning JavaScript will be like learning Java with a master key. 
+## My Thoughts after Course 
 
-## My Thoughts
-
-What I think about athletic software engineering its very hard but challenging. When it comes to work, I really hate being rushed. Just knowing that I have a fast time limit gives me stress and that gives me test anxiety. I tend do sweat and breathe very hard when I’m stressing out and I hate it. I think WODs are necessary though it proves to me that I need more practice when it comes to programming and it shows that if I practice more often, I can improve and code faster. I also think WODs purpose is too make you code on a regular basis and with constant coding will come with benefits with solving basic problems. I think WODS will work for me but it’s going to be hard to adjust to that type of learning, but I am willing to take on the challenge.
+I feel like anyone who wants to practice their HTML and CSS skills should take this class because not only that its fun and interactive it also increases your coding skills to the next level. I remember it took me a couple of hours to make one html site and with the skills i learned in this course I can make multiple html files in one day and make them look pretty. 
 
 
