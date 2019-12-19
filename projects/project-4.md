@@ -26,8 +26,8 @@ For this project I was put into a group of three students and our task was to re
 
 The task that I was assigned to this project was to designed the Landing/Home Page and the User Page of our website. I was also the one to help with making the mock-ups of our site with along side my teammate Kelli. She and I made the decision to use Cards as the basis for the food options/favorites. I was to edit any mistakes we made with our website and make improvements on stuff our TA's recommend us to utilize and make minor edits as well. I would say my main contribution on this project was to finish what needed to be done and listen on feedback from my teammates and peers.  
 
-## Link
+## Experience
+Overall this project was an excellent opportunity to gain experience in user interface and databases. It makes me feel like I can make my own website one day and fulfil my dream on making an Anime base website with forums and such. This project also open my view on group projects and deadlines such that even though I have tasks it doesnt hurt to rely on your teammates and their feedback on how you can improve what your doing. Although it was hard at first on trying to communicate with them.
 
-Here below is a link to our group video on Youtube 
-[Link](https://www.youtube.com/watch?v=gwrAP2KPJh0&list=LLtPjG5VOZEq5glokGJsuS1w&index=287&t=0s)
+See our Organization GitHub homepage [here](https://uhm-food-mood.github.io/) and UHM Food Mood source code [here](https://github.com/uhm-food-mood/uhm-food-mood).
 
