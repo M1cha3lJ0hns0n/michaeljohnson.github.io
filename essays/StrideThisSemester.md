@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Stride of Knowledge
 # All dates must be YYYY-MM-DD format!
-date: 2019-18-012
+date: 2019-18-12
 labels:
   - Software Engineering
   - Learning
