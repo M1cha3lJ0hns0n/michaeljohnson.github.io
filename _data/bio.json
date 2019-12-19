@@ -89,10 +89,20 @@
         "Maintain, update, and regulate inventory/ stock ",
         "Provide customer service and reccomend product and knowlege to customers"
       ]
-    }
-  ]
+    },
+    {
+      "company": "Univeristy of Hawaii Manoa IT Center",
+      "position": "Lab Monitor",
+      "startDate": "2019-09-25",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Maintain, update, and regulate inventory/ stock ",
+        "Provide customer service to students and staff"
+        ]
     }
   ],
+
  "awarder": [
     {
       "title": "Associates in Natural Science Information and Communication Technology ",
@@ -103,4 +113,3 @@
     }
   ]
     }
-  ]
